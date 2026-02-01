@@ -1,5 +1,7 @@
 #profile-title: Уютный (резерв)
 profile-title: Уютный (резерв)
+#profile-update-interval: 1
+profile-update-interval: 1
 vless://30dd5974-780c-4743-b88a-12a4450bd2a3@185.177.238.57:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&security=reality&sid=b4bce8730b58ddd5&sni=al.cdn.stun.su&type=tcp#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B%2ACIDR%5D
 vless://83dd438b-357b-4060-a633-52e9714afabe@185.177.238.57:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&security=reality&sid=b4bce8730b58ddd5&sni=al.cdn.stun.su&type=tcp#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B%2ACIDR%5D
 vless://fdeecee7-dbed-47f6-bea2-cb0073b5e435@185.177.238.131:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cl6-alb.privetnet.ru&fp=chrome&security=reality&pbk=N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA&sid=89c32a29c1940178#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B%2ACIDR%5D
